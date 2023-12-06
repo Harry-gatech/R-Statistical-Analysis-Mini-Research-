@@ -1,0 +1,14 @@
+# Patient ID = Patient identification number
+# Study Group = Treatment group, 0= no music, 1 = music
+# Gender = infant gender
+# Gest. Age (Completed weeks) = Gestational age of infant at birth (in weeks)
+# Age (in days) = Days elapsed since birth
+# EthnicityProper = Recorded ethnicity of infant
+# NIPS -5 = Neonatal Infant Pain Score as measured 5 minutes before procedure (0-7, no pain-high pain)
+# NIPS 0 = Neonatal Infant Pain Score as measured during procedure (0-7, no pain-high pain)
+# ProcDurationSECONDS = Duration of the procedure (in seconds)
+# NIPS +1 (post proc‎.) = Neonatal Infant Pain Score as measured 1 minute after procedure (0-7, no pain-high pain)
+# NIPS +2 (post proc‎.) = Neonatal Infant Pain Score as measured 2 minutes after procedure (0-7, no pain-high pain)
+# NIPS +3 (post proc‎.) = Neonatal Infant Pain Score as measured 3 minutes after procedure (0-7, no pain-high pain)
+# NIPS +4 (post proc‎.) = Neonatal Infant Pain Score as measured 4 minutes after procedure (0-7, no pain-high pain)
+# NIPS +5 (post proc‎.) = Neonatal Infant Pain Score as measured 5 minutes after procedure (0-7, no pain-high pain)
